@@ -1,0 +1,9 @@
+[package]
+name = "livekit-rust-audio-proof-of-concept"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.98"
+coreaudio-rs = "0.13.0"
+livekit = "0.7.16"
